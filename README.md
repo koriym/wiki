@@ -1,4 +1,4 @@
-wiki
+koriym's tech wiki
 ====
 
-wiki only
+https://github.com/koriym/wiki/wiki/_pages
